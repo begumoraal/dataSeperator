@@ -1,4 +1,4 @@
-# Data Seperator
+# DataSeperator
 DataSeperator is a tool designed to process and separate data from various input formats and store the results in different output formats. This can be particularly useful for data cleaning, analysis, and transformation tasks.
 
 ## Files

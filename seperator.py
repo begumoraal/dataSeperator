@@ -3,7 +3,7 @@ import pandas as pd
 import sqlite3
 
 neighbourhoods = [
-    "yıldırım", "kartaltepe", "muratpaşa", "altıntepsi", "kocatepe", "cevatpaşa", "yenidoğan", "terazidere", "orta", "ismetpaşa", "vatan" # add all neighbourhood names here
+    "yıldırım", "kartaltepe", "muratpaşa", "altıntepsi", "kocatepe", "cevatpaşa", "yenidoğan", "terazidere", "orta", "ismetpaşa", "vatan"
 ]
 
 def extract_data(line):
